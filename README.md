@@ -2,7 +2,7 @@
 
 [https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/typicode/demo)
 
-[https://my-json-server.typicode.commatiasmasca/fake-json](https://my-json-server.typicode.commatiasmasca/fake-json)
+[https://my-json-server.typicode.com/matiasmasca/fake-json](https://my-json-server.typicode.com/matiasmasca/fake-json)
 
 ## Use your own data
 
