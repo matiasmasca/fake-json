@@ -1,75 +1,76 @@
 {
-  "businesses": [
-    {
-      "id": 1,
-      "bussinesName": "Service 1",
-      "tagline": "Make the world a better place 1",
-      "logo":"<url_logo>",
-      "coverImage":"<url_img>",
-      "description":"",
-      "photos": [{"foto1":"<url_logo>","foto2":"<url_logo>","foto3":"<url_logo>",}],
-      "slug":"service-1",
-      "tags": ["tag1","tag2"],
-      "categories": ["category1","category2"],
-      "plan":"basic",
-      "expires": "02/30/2027",
-      "businesInfo": {
-        "legalName":"Service 1 Ltd.",
-        "taxpayerIdentification":"947-63-7882",
-        "email":"contact@service1.com",
-        "main_phone":"15628642128",
-        "wapp_phone":"15628642128",
-        "tg_phone":"15628642128",
-        "website_url":"https://service1.com",
-        "social_url_1":"https://facebook.com/service.1",
-        "social_url_2":"https://instagram.com/service.1",
-        "business_hours":"Always open",
-      },
-      "businessAddress": {
-        "address":"8 Dawson Street Dublin 2, D02 N767, Ireland",
-        "geo": {
-          "lat":"-27.3141882",
-          "lng":"-58.6130937",
-         } ,
-        "country":"ARG",
-        "postcode":"3400",
-        "city":"Random City",
-        "state":"Corrientes",
-      },
-      "contacts":[
-        {
-          "id": 1,
-          "relationship":"Owner",
-          "first_name":"John",
-          "last_name":"Doe",
-          "mobilePhone":"15628642128",
-          "email":"contact@random.org",
-          "social_url_1":"https://facebook.com/service.1",
-          "social_url_2":"https://instagram.com/service.1",
-          "state":"active",
-        },
-        {
-          "id": 2,
-          "relationship":"Sales Representative",
-          "first_name":"Joe",
-          "last_name":"Doe",
-          "mobilePhone":"012-6807-19",
-          "email":"contact@random.org",
-          "social_url_1":"https://facebook.com/service.1",
-          "social_url_2":"https://instagram.com/service.1",
-          "state":"active",
-        },
-      ],
-      "button": {
-        "buttonName":"Contact me",
-        "buttonLink":"email",
-        "buttonIcon":"https://www.random.org",
-      },
-      "links": {
-        "linkTitle":"official web site",
-        "linkUrl":"https://www.random.org",
-        "linkIcon":"web",
-      },
+  "businesses": [{
+    "id": 1,
+    "bussinesName": "Service 1",
+    "tagline": "Make the world a better place 1",
+    "logo": "<url_logo>",
+    "coverImage": "<url_img>",
+    "description": "",
+    "photos": [{
+      "foto1": "<url_logo>",
+      "foto2": "<url_logo>",
+      "foto3": "<url_logo>"
+    }],
+    "slug": "service-1",
+    "tags": ["tag1", "tag2"],
+    "categories": ["category1", "category2"],
+    "plan": "basic",
+    "expires": "02/30/2027",
+    "businesInfo": {
+      "legalName": "Service 1 Ltd.",
+      "taxpayerIdentification": "947-63-7882",
+      "email": "contact@service1.com",
+      "main_phone": "15628642128",
+      "wapp_phone": "15628642128",
+      "tg_phone": "15628642128",
+      "website_url": "https://service1.com",
+      "social_url_1": "https://facebook.com/service.1",
+      "social_url_2": "https://instagram.com/service.1",
+      "business_hours": "Always open"
     },
-  ],
+    "businessAddress": {
+      "address": "8 Dawson Street Dublin 2, D02 N767, Ireland",
+      "geo": {
+        "lat": "-27.3141882",
+        "lng": "-58.6130937"
+      },
+      "country": "ARG",
+      "postcode": "3400",
+      "city": "Random City",
+      "state": "Corrientes"
+    },
+    "contacts": [{
+        "id": 1,
+        "relationship": "Owner",
+        "first_name": "John",
+        "last_name": "Doe",
+        "mobilePhone": "15628642128",
+        "email": "contact@random.org",
+        "social_url_1": "https://facebook.com/service.1",
+        "social_url_2": "https://instagram.com/service.1",
+        "state": "active"
+      },
+      {
+        "id": 2,
+        "relationship": "Sales Representative",
+        "first_name": "Joe",
+        "last_name": "Doe",
+        "mobilePhone": "012-6807-19",
+        "email": "contact@random.org",
+        "social_url_1": "https://facebook.com/service.1",
+        "social_url_2": "https://instagram.com/service.1",
+        "state": "active"
+      }
+    ],
+    "button": {
+      "buttonName": "Contact me",
+      "buttonLink": "email",
+      "buttonIcon": "https://www.random.org"
+    },
+    "links": {
+      "linkTitle": "official web site",
+      "linkUrl": "https://www.random.org",
+      "linkIcon": "web"
+    }
+  }]
 }
