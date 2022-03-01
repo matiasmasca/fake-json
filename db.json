@@ -6,11 +6,11 @@
     "logo": "https://cdn.stocksnap.io/img-thumbs/960w/business-man_IVZBYWKEFM.jpg",
     "coverImage": "https://cdn.stocksnap.io/img-thumbs/960w/grass-landscape_UDX0CFOWLH.jpg",
     "description": "Make the world a better place 1",
-    "photos": [{
-      "foto1": "https://cdn.stocksnap.io/img-thumbs/960w/river-landscape_CWHTXELDMU.jpg",
-      "foto2": "https://cdn.stocksnap.io/img-thumbs/960w/pond-lake_LTYQIQ0QNN.jpg",
-      "foto3": "https://cdn.stocksnap.io/img-thumbs/960w/golden-gate_TGHJ5TXCDI.jpg"
-    }],
+    "photos": [
+      {"foto1": "https://cdn.stocksnap.io/img-thumbs/960w/river-landscape_CWHTXELDMU.jpg"},
+      {"foto2": "https://cdn.stocksnap.io/img-thumbs/960w/pond-lake_LTYQIQ0QNN.jpg"},
+      {"foto3": "https://cdn.stocksnap.io/img-thumbs/960w/golden-gate_TGHJ5TXCDI.jpg"}
+    ],
     "slug": "service-1",
     "tags": ["tag1", "tag2"],
     "categories": ["category1", "category2"],
