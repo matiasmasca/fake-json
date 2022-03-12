@@ -66,12 +66,12 @@
     "button": {
       "buttonName": "Contact me",
       "buttonIcon": "email",
-      "buttonLink": "https://www.random.org"
+      "buttonUrl": "https://www.random.org"
     },
     "links": {
       "linkTitle": "official web site",
-      "linkUrl": "https://www.random.org",
-      "linkIcon": "web"
+      "linkIcon": "web",
+      "linkUrl": "https://www.random.org"
     }
   }]
 }
