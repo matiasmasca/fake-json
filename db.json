@@ -65,12 +65,12 @@
     ],
     "button": {
       "buttonName": "Contact me",
-      "buttonIcon": "email",
+      "buttonIcon": "fa-envelope",
       "buttonUrl": "https://www.random.org"
     },
     "links": {
       "linkTitle": "official web site",
-      "linkIcon": "web",
+      "linkIcon": "fa-bullseye",
       "linkUrl": "https://www.random.org"
     }
   }]
