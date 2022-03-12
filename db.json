@@ -65,8 +65,8 @@
     ],
     "button": {
       "buttonName": "Contact me",
-      "buttonLink": "email",
-      "buttonIcon": "https://www.random.org"
+      "buttonIcon": "email",
+      "buttonLink": "https://www.random.org"
     },
     "links": {
       "linkTitle": "official web site",
