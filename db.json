@@ -73,5 +73,80 @@
       "linkIcon": "fa-bullseye",
       "linkUrl": "https://www.random.org"
     }
+  },
+    {
+    "id": 2,
+    "bussinesName": "Service 2",
+    "tagline": "Make the world a better place 2",
+    "logo": "https://cdn.stocksnap.io/img-thumbs/960w/business-man_IVZBYWKEFM.jpg",
+    "coverImage": "https://cdn.stocksnap.io/img-thumbs/960w/grass-landscape_UDX0CFOWLH.jpg",
+    "description": "Make the world a better place 1",
+    "photos": [
+      {"image": "https://cdn.stocksnap.io/img-thumbs/960w/river-landscape_CWHTXELDMU.jpg"},
+      {"image": "https://cdn.stocksnap.io/img-thumbs/960w/pond-lake_LTYQIQ0QNN.jpg"},
+      {"image": "https://cdn.stocksnap.io/img-thumbs/960w/golden-gate_TGHJ5TXCDI.jpg"}
+    ],
+    "slug": "service-1",
+    "tags": ["tag1", "tag2"],
+    "categories": ["category1", "category2"],
+    "plan": "basic",
+    "listingStatus": "active",
+    "expires": "02/30/2027",
+    "businesInfo": {
+      "legalName": "Service 1 Ltd.",
+      "taxpayerIdentification": "947-63-7882",
+      "email": "contact@service1.com",
+      "main_phone": "15628642128",
+      "wapp_phone": "15628642128",
+      "tg_phone": "15628642128",
+      "website_url": "https://service1.com",
+      "social_url_1": "https://facebook.com/service.1",
+      "social_url_2": "https://instagram.com/service.1",
+      "business_hours": "Always open"
+    },
+    "businessAddress": {
+      "address": "8 Dawson Street Dublin 2, D02 N767, Ireland",
+      "geo": {
+        "lat": "-27.3141882",
+        "lng": "-58.6130937"
+      },
+      "country": "ARG",
+      "postcode": "3400",
+      "city": "Random City",
+      "state": "Corrientes"
+    },
+    "contacts": [{
+        "id": 3,
+        "relationship": "Owner",
+        "first_name": "John",
+        "last_name": "Doe",
+        "mobilePhone": "15628642128",
+        "email": "contact@random.org",
+        "social_url_1": "https://facebook.com/service.1",
+        "social_url_2": "https://instagram.com/service.1",
+        "state": "active"
+      },
+      {
+        "id": 4,
+        "relationship": "Sales Representative",
+        "first_name": "Joe",
+        "last_name": "Doe",
+        "mobilePhone": "012-6807-19",
+        "email": "contact@random.org",
+        "social_url_1": "https://facebook.com/service.1",
+        "social_url_2": "https://instagram.com/service.1",
+        "state": "active"
+      }
+    ],
+    "button": {
+      "buttonName": "Contact me",
+      "buttonIcon": "fa-envelope",
+      "buttonUrl": "https://www.random.org"
+    },
+    "links": {
+      "linkTitle": "official web site",
+      "linkIcon": "fa-bullseye",
+      "linkUrl": "https://www.random.org"
+    }
   }]
 }
